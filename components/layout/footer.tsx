@@ -71,8 +71,8 @@ const Footer = () => {
           />
           <p>
             {new Date().getFullYear()}. Designed and developed by{" "}
-            <a href="#" className="text-coral-red" target="_blank">
-              hamid
+            <a href="https://github.com/abdulhai-rawan" className="text-coral-red" target="_blank">
+              abdulhairawan
             </a>
             . All rights reserved.
           </p>
